@@ -4,3 +4,10 @@ h1 {
     color: navy;
     margin-left: 20px;
 }
+
+img {
+    max-width: 960px;
+    width: 100%;
+}
+
+img#git { max-width: 640px; }
